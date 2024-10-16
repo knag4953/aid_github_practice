@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-gsdafgdasfeghterwhaa
-=======
-asdgf
-
->>>>>>> mylocal
+main_hello
+push_hello
