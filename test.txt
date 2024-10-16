@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 gsdafgdasfeghterwhaa
+=======
+asdgf
+
+>>>>>>> mylocal
